@@ -1,6 +1,6 @@
 # Welcome to My Resume!
 
-Link: <a href="https://www.licexam.com/resume" target="_blank">licexam.com/resume</a>
+Link: [licexam.com/resume](https://www.licexam.com/resume){:target="_blank"}
 
 Hello there! 👋
 
