@@ -190,6 +190,10 @@ main .description {
     margin-bottom: 0;
 }
 
+main .description b {
+    font-weight: 500;
+}
+
 @media print {
     header {
         -webkit-print-color-adjust: exact;
