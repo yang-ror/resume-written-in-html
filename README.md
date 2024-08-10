@@ -1,6 +1,6 @@
 # Welcome to My Resume!
 
-Link: [licexam.com/resume](https://www.licexam.com/resume target="_blank)
+Link: [licexam.com/resume](https://www.licexam.com/resume)
 
 Hello there! 👋
 
