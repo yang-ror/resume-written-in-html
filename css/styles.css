@@ -123,7 +123,7 @@ aside .big-icon {
 aside .big-icon img {
     height: 35px;
     transform: translate(0, -1px);
-    border-radius: 3px;
+    border-radius: 6px;
 }
 
 aside hr {
